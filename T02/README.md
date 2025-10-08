@@ -55,4 +55,4 @@ Redactar un **informe final** que inclogui:
 📘 *Objectiu final:*  
 Triar el SAI més adequat per garantir la continuïtat de servei i la protecció dels equips informàtics de TecnoGestió S.L.
 
-a l'arxiu [solució.md](solucio.md) hi ha la solució de la tasca 2.
+a l'arxiu [solució.md](Solucio.md) hi ha la solució de la tasca 2.
