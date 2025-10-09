@@ -1,6 +1,6 @@
-# 🧩 Descripció del projecte — EverPia
+#  Descripció del projecte — EverPia
 
-## 🎯 Objectius, repte i producte final
+##  Objectius, repte i producte final
 
 Benvinguts a **EverPia**, una **consultora IT** que té com a missió **resoldre els reptes tecnològics** de clients molt diversos.  
 Acabeu d’incorporar-vos a l’empresa com a **nous consultors júnior** i, a partir d’avui, formareu part de l’equip que dona servei a diferents organitzacions.
@@ -10,13 +10,13 @@ Però no us enganyeu: el que realment us demanem és **capacitat d’adaptació,
 
 ---
 
-## 🧠 Origen de l’empresa
+##  Origen de l’empresa
 
 L’origen d’EverPia es remunta a uns anys enrere, quan **vuit professors** —Rubén, Isabel, Carles Alonso, Cristian, Carles Fugarolas, Natalia i Núria— van decidir unir les seves forces.  
 Tots ells compartien una passió: la **informàtica i l’educació**.  
 Però també una convicció profunda: **la tecnologia no té sentit si no ajuda a les persones i a les organitzacions a créixer.**
 
-### 🌟 Els fundadors
+###  Els fundadors
 
 - **Rubén** — el rei de la web  
 - **Isabel** — experta en auditories  
@@ -34,7 +34,7 @@ La seva llegenda comença en una petita sala plena de cables i ordinadors antics
 
 ---
 
-## 🚀 El vostre repte
+##  El vostre repte
 
 Ara sou **vosaltres** qui entreu a formar part d’aquesta història.  
 Acabeu de ser contractats com a **consultors júnior d’EverPia** i us enfrontareu a reptes reals provinents de clients molt diferents.
@@ -47,14 +47,14 @@ Això implica no només resoldre problemes tècnics, sinó també **organitzar-v
 
 ---
 
-## 🗂️ Metodologia de treball
+##  Metodologia de treball
 
 A EverPia es treballa amb la metodologia **Kanban**, utilitzant l’eina **Planner**, i es valora moltíssim mantenir el **backlog de tasques al dia.**  
 Aquesta serà la clau de l’èxit en tots els projectes que us encarreguin.
 
 ---
 
-## 💻 Tasques que us esperen
+##  Tasques que us esperen
 
 Les tasques són variades i reals, entre elles:
 
@@ -68,7 +68,7 @@ Les tasques són variades i reals, entre elles:
 
 ---
 
-## 🧾 Productes finals que s’avaluaran
+##  Productes finals que s’avaluaran
 
 | Codi | Producte | Descripció |
 |------|-----------|------------|
@@ -79,7 +79,7 @@ Les tasques són variades i reals, entre elles:
 
 ---
 
-## 🎯 Objectiu final
+##  Objectiu final
 
 L’objectiu últim és que desenvolupeu les vostres **competències tècniques i professionals**, però també que experimenteu el que significa ser part d’una **consultora real**:
 
@@ -90,7 +90,7 @@ L’objectiu últim és que desenvolupeu les vostres **competències tècniques 
 
 ---
 
-## 🌍 En definitiva
+##  En definitiva
 
 Aquest projecte és la vostra **porta d’entrada a EverPia**:  
 la consultora nascuda de la passió d’uns professors, i que ara posa en les vostres mans la responsabilitat d’**escriure el següent capítol de la seva història.**
