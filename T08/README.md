@@ -1,6 +1,6 @@
-# 🧭 T08: Assessorament de domini i hosting (per client assignat) — Aplicacions web
+# T08: Assessorament de domini i hosting (per client assignat) — Aplicacions web
 
-## 🧩 Breu descripció
+## Breu descripció
 
 En grups de projecte, un nou client de la consultora **EverPia** ha demanat que l’assessoreu per **escollir domini i hosting per a la seva web**.  
 Cada equip tindrà assignats **DOS CLIENTS** (vegeu la llista de clients) i haurà de preparar una **proposta professional**.
@@ -10,11 +10,11 @@ La finalitat és que acabeu fent una **presentació tècnica** per explicar-li a
 
 La documentació s’ha de redactar **íntegrament en Markdown** i pujar-se al vostre repositori de **GitHub** dins la carpeta `T08/`.
 
-> ⚠️ Tot el que prepareu en aquesta tasca servirà directament com a base per al **Producte P03: Presentació d’elecció de hosting**, que haureu d’exposar en el marc del **Projecte Intermodular** davant del client.
+> Atenció: Tot el que prepareu en aquesta tasca servirà directament com a base per al **Producte P03: Presentació d’elecció de hosting**, que haureu d’exposar en el marc del **Projecte Intermodular** davant del client.
 
 ---
 
-## 👥 Grups i clients
+## Grups i clients
 
 | Grup | Client 1 | Client 2 |
 |------|-----------|----------|
@@ -30,7 +30,7 @@ La documentació s’ha de redactar **íntegrament en Markdown** i pujar-se al v
 
 ---
 
-## 🎯 Objectius específics de la tasca
+## Objectius específics de la tasca
 
 - Aprendre a treballar amb **Markdown** com a format estàndard de documentació tècnica.  
 - Investigar i analitzar **ofertes de hosting i dominis** segons els requeriments d’un client realista.  
@@ -39,7 +39,7 @@ La documentació s’ha de redactar **íntegrament en Markdown** i pujar-se al v
 
 ---
 
-## 🧠 Objectius d’aprenentatge
+## Objectius d’aprenentatge
 
 - Detectar **requeriments tècnics i de negoci** d’un client web (capacitat, creixement, SLA, RGPD).  
 - Comparar **proveïdors i plans de hosting** amb criteris objectius (rendiment, seguretat, suport, cost total).  
@@ -48,7 +48,7 @@ La documentació s’ha de redactar **íntegrament en Markdown** i pujar-se al v
 
 ---
 
-## 📦 Lliurables (per a cada client)
+## Lliurables (per a cada client)
 
 1. **Fitxa del client** (seguint la plantilla).  
 2. **Taula comparativa** de 3–4 opcions de hosting + domini (vegeu plantilla).  
@@ -58,9 +58,9 @@ La documentació s’ha de redactar **íntegrament en Markdown** i pujar-se al v
 
 ---
 
-## 🧾 Plantilla en format Markdown
+## Plantilla en format Markdown
 
-### 🖥️ Proposta de domini i hosting per al client [Nom del client]
+### Proposta de domini i hosting per al client [Nom del client]
 
 #### 1. Presentació del client
 - Breu descripció del negoci  
@@ -97,4 +97,4 @@ La documentació s’ha de redactar **íntegrament en Markdown** i pujar-se al v
 
 ---
 
-📚 *Recorda:* aquesta tasca connecta directament amb el **Producte P03 (Presentació d’elecció de hosting)**, així que el treball en Markdown serà la base del vostre informe i defensa davant del client.
+Recorda: aquesta tasca connecta directament amb el **Producte P03 (Presentació d’elecció de hosting)**, així que el treball en Markdown serà la base del vostre informe i defensa davant del client.
