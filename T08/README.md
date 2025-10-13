@@ -98,3 +98,5 @@ La documentació s’ha de redactar **íntegrament en Markdown** i pujar-se al v
 ---
 
 Recorda: aquesta tasca connecta directament amb el **Producte P03 (Presentació d’elecció de hosting)**, així que el treball en Markdown serà la base del vostre informe i defensa davant del client.
+
+a l'arxiu [solució.md](Solucio.md) hi ha la solució de la tasca
