@@ -45,3 +45,5 @@ password_pbkdf2 nombre_login
 ![Imatge 16](img/I16.png)
 
 I després, per últim, aplicarem els canvis.
+
+[torna al enunciat](README.md)
